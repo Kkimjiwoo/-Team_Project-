@@ -1,6 +1,7 @@
 # Store Location Analysis
 ### 주제 : 24시 반려동물 셀프목욕방창업을 위한 서울시 동단위 입지 분석
 팀원 : 정사라, 박태영, 김원, 김지우, 이의준
+발표일 : 2024-05-09
 
 ## Overview
 ### `Background`
@@ -22,3 +23,11 @@
 ### `Data Collection`
 - 서울 열린 데이터 광장 https://data.seoul.go.kr/
 - 공공데이터포털 https://www.data.go.kr/index.do
+
+### `Data Understand`
+
+### `Data Preparation`
+
+### `Modeling`
+
+### `Visualizing`
